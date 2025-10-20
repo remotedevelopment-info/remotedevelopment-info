@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @remotedevelopment-info
-- 👀 I’m interested in ... Full Stack development, NodeJS, Remote Development
-- 🌱 I’m currently learning ... StencilJS, SCSS, NodeJS
-- 💞️ I’m looking to collaborate on ... VueJS, Laravel 8
+- 👋 Hi, I’m @remotedevelopment-info (Nicholas Alexander)
+- 👀 I’m interested in ... Full Stack development, Remote Development, Laravel, Svelte, Python, React, Golang
+- 🌱 I’m currently learning ... ReactJS, Python
+- 💞️ I’m looking to collaborate on ... Svelte, Laravel/Livewire, Golang
 - 📫 How to reach me ... info@softwareantelope.com
 
 <!---
